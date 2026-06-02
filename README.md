@@ -1,3 +1,20 @@
+# COVID-19 Mortality Risk Analysis — Mexico
+
+## Description
+Identifying the most vulnerable populations in the context of COVID-19 is crucial for healthcare institutions, as it allows them to tailor triage procedures to the most affected groups or those with the highest mortality rates. Based on 370,712 confirmed cases from the official registry of the Ministry of Health, this analysis explores the impact of factors such as age, diabetes, and type of care on the mortality rate.
+
+##Key Findings:
+- 📈 Mortality rate is 26x higher in patients over 75 vs. under 17
+- 🩺 Diabetic patients show 3x higher mortality (26.4% vs 8.4%)
+- ⚠️ Among ages 18–29, diabetes increases mortality risk by 7.6x
+- 🏥 Hospitalized patients (18–29) show 112× higher mortality vs ambulatory
+
+## Tools: Python · pandas · DuckDB · matplotlib · seaborn  
+
+## Data source: Secretaría de Salud México (open government data)  
+
+📓 [View full notebook on Kaggle](https://www.kaggle.com/code/carlosroberto0712/an-lisis-de-mortalidad-por-covid-19-en-m-xico)
+
 # Análisis de Mortalidad por COVID-19 en México
 
 ## Descripción
